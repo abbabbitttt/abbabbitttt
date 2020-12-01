@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/abbabbitttt/abbabbitttt/images/anthonybabbitt.png"/>
+<img align="center" src="https://raw.githubusercontent.com/abbabbitttt/images/anthonybabbitt.png"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anthony%20Babbitt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/babbittanthony/)](https://www.linkedin.com/in/babbittanthony/)
 [![Mail Badge](https://img.shields.io/badge/-TonyBabbitt@Gmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:tonybabbitt@gmail.com)](mailto:tonybabbitt@gmail.com)
