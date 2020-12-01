@@ -20,4 +20,4 @@
 ## Some of my Github Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
 
-⭐️ From [abbabbitttt](https://github.com/abbabbitttt)
+⭐️ From [Anthony Babbitt](https://github.com/abbabbitttt)
