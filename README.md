@@ -16,9 +16,9 @@
 
 - 📫 How to reach me: TonyBabbitt@Gmail.com
 
-- ⚡ I have a blog at https://www.babbittfamilyfoundation.org/blog where post each time I find my muse. Everything I post is about things I find interesting.
+- ⚡ I have a blog at https://www.BabbittFamilyFoundation.org/blog where post each time I find my muse. Everything I post is about things I find interesting.
 
 ## Some of my Github Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
 
-⭐️ From [Anthony Babbitt](https://github.com/abbabbitttt)
+⭐️ From [Anthony Babbitt, PhD(c), MS, MCSE](https://github.com/abbabbitttt)
