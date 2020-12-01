@@ -19,5 +19,7 @@
 
 ## Some of my Github Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
+
 <a href="https://www.BabbittFamilyFoundation.org/"><img alt="Joe Cool" src="https://i.pinimg.com/236x/98/fc/3e/98fc3e30e7739ff32489465f1259161c--streng-snoopy.jpg" align="right" height="150" /></a>
+
 ⭐️ From [Anthony Babbitt, PhD(c), MS, MCSE](https://github.com/abbabbitttt)
