@@ -18,6 +18,6 @@
 - ⚡ I have a blog at https://www.babbittfamilyfoundation.org/blog where post each time I find my muse. Everything I post is about things I find interesting.
 
 ## Some of my Github Stats
-![Tony Babbitt's github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
 
 ⭐️ From [abbabbitttt](https://github.com/abbabbitttt)
