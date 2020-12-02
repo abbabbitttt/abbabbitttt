@@ -7,17 +7,19 @@
 
 ### I am Anthony Babbitt, PhD(c), MS, MCSE
 
-- 🔭 I'm a business and change management consultant who is passionate about human resources, systems design, and organizational efficiency.
+- I'm a business and change management consultant who is passionate about human resources, systems design, and organizational efficiency.
 
-- 🌱 I'm constantly learning new things and starting personal projects. 
+- I'm constantly learning new things and starting personal projects. 
 
-- 🚴‍♂️ I love reading and travelling to new places.
+- I love reading and travelling to new places.
 
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+- I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 
-- 📫 How to reach me: TonyBabbitt@Gmail.com
+- How to reach me: TonyBabbitt@Gmail.com
 
-- ⚡ I have a blog at https://www.BabbittFamilyFoundation.org/blog where post each time I find my muse. Everything I post is about things I find interesting.
+- I have a blog at https://www.BabbittFamilyFoundation.org/blog where, each time I find my muse, I write about things I find interesting.
+
+- I have been quoted in, featured on, or written <a href=https://www.babbittfamilyfoundation.org/post/publications-media-mentions> several articles</a>. The list may be found at https://www.babbittfamilyfoundation.org/post/publications-media-mentions.
 
 ## A Few Of My Github Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
