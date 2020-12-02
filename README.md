@@ -17,9 +17,11 @@
 
 - How to reach me: TonyBabbitt@Gmail.com
 
-- I have a blog at https://www.BabbittFamilyFoundation.org/blog where, each time I find my muse, I write about things I find interesting.
+- I have a blog where, each time I find my muse, <a href=https://www.BabbittFamilyFoundation.org/blog>I write about things I find interesting</a>.
 
-- I have been quoted in, featured on, or written <a href=https://www.babbittfamilyfoundation.org/post/publications-media-mentions> several articles</a>. The list may be found at https://www.babbittfamilyfoundation.org/post/publications-media-mentions.
+- I have been quoted in, featured on, or written <a href=https://www.babbittfamilyfoundation.org/post/publications-media-mentions> several articles</a>.
+
+- My <a href=https://drive.google.com/file/d/1aq0NXvmOv2oxujFG889bFpt80XkZLK5L/view>curriculum vitae</a> is also available.
 
 ## A Few Of My Github Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abbabbitttt&show_icons=true)
