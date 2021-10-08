@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@TonyBabbitt-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://tonybabbitt.medium.com/)](https://tonybabbitt.medium.com/)
 
 
-### I am Anthony Babbitt, PhD(c), MS, MCSE
+### I am Anthony Babbitt, PhD, MS, MCSE
 
 - I'm a business and change management consultant who is passionate about human resources, systems design, and organizational efficiency.
 
